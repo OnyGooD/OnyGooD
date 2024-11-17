@@ -1,4 +1,4 @@
-<h5 align="center">Tamás Molnár, known on GitHub as OnyGooD, is an IT student at the DSZC Mechwart András Informatikai Technikum in Hungary. His projects include work on Python-based algorithms, a JavaScript-based applications, and various web development exercises, showcasing his focus on programming fundamentals and web development skills.</h5>
+<h3 align="center">Tamás Molnár, known on GitHub as OnyGooD, is an IT student at the DSZC Mechwart András Informatikai Technikum in Hungary. His projects include work on Python-based algorithms, a JavaScript-based applications, and various web development exercises, showcasing his focus on programming fundamentals and web development skills.</h3>
 
 ###
 
