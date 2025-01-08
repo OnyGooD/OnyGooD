@@ -1,10 +1,4 @@
-<h4 align="center">Tamás Molnár, known on GitHub as OnyGooD, is an IT student at the DSZC Mechwart András Informatikai Technikum in Hungary. His projects include work on Python-based algorithms, a JavaScript-based applications, and various web development exercises, showcasing his focus on programming fundamentals and web development skills.</h4>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OnyGooD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+[<h4 align="center">Tamás Molnár, known on GitHub as OnyGooD, is an IT student at the DSZC Mechwart András Informatikai Technikum in Hungary. His projects include work on Python-based algorithms, a JavaScript-based applications, and various web development exercises, showcasing his focus on programming fundamentals and web development skills.</h4>
 
 ###
 
@@ -31,7 +25,13 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/9xFuydlwyLIAAAAd/berserk.gif"  />
+  <img height="250" src="https://cdn.discordapp.com/attachments/929103155969548308/1326583136582111335/tenor.gif?ex=677ff452&is=677ea2d2&hm=885a6291106c7b579e9aee528959e2d13123e38eccd19d436c74805b2d69b693&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OnyGooD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -46,4 +46,4 @@
   </a>
 </div>
 
-###
+###](https://cdn.discordapp.com/attachments/929103155969548308/1326583136582111335/tenor.gif?ex=677ff452&is=677ea2d2&hm=885a6291106c7b579e9aee528959e2d13123e38eccd19d436c74805b2d69b693&)
