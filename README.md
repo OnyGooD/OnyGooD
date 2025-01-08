@@ -1,4 +1,4 @@
-[<h4 align="center">Tamás Molnár, known on GitHub as OnyGooD, is an IT student at the DSZC Mechwart András Informatikai Technikum in Hungary. His projects include work on Python-based algorithms, a JavaScript-based applications, and various web development exercises, showcasing his focus on programming fundamentals and web development skills.</h4>
+<h4 align="center">Tamás Molnár, known on GitHub as OnyGooD, is an IT student at the DSZC Mechwart András Informatikai Technikum in Hungary. His projects include work on Python-based algorithms, a JavaScript-based applications, and various web development exercises, showcasing his focus on programming fundamentals and web development skills.</h4>
 
 ###
 
@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://cdn.discordapp.com/attachments/929103155969548308/1326583136582111335/tenor.gif?ex=677ff452&is=677ea2d2&hm=885a6291106c7b579e9aee528959e2d13123e38eccd19d436c74805b2d69b693&"  />
+  <img height="250" src="https://s13.gifyu.com/images/SXU4O.gif"  />
 </div>
 
 ###
@@ -46,4 +46,4 @@
   </a>
 </div>
 
-###](https://cdn.discordapp.com/attachments/929103155969548308/1326583136582111335/tenor.gif?ex=677ff452&is=677ea2d2&hm=885a6291106c7b579e9aee528959e2d13123e38eccd19d436c74805b2d69b693&)
+###
