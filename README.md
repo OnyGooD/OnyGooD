@@ -1,27 +1,21 @@
-<h4 align="center">GooDy, known on GitHub as OnyGooD, is an IT student at the DSZC Mechwart András Informatikai Technikum in Hungary. His projects include work on Python-based algorithms, a JavaScript-based applications, and various web development exercises, showcasing his focus on programming fundamentals and web development skills.</h4>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OnyGooD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8b0000&height=100&section=header" width="100%"/>
+
+<img src="assets/profile.gif" width="500"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b0000,100:000000&height=3" width="100%"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,nextjs,electron,python,fastapi,selenium,powershell,html,css,lua,visualstudio,vscode,git,github,godot,ps,ai,pr&theme=dark&perline=11" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b0000,100:000000&height=3" width="100%"/>
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/OnyGooD?style=for-the-badge&labelColor=000000&color=8b0000&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/stars/OnyGooD?style=for-the-badge&labelColor=000000&color=8b0000&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/joined-2022-8b0000?style=for-the-badge&labelColor=000000&logo=github&logoColor=white" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8b0000&height=100&section=footer" width="100%"/>
+
 </div>
-
-###
-
-<div align="center">
-  <img height="300" src="/art/sample.gif?raw=true"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/OnyGooD/OnyGooD/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/kk8axoy5fifvzpsrenhgnh7cy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kk8axoy5fifvzpsrenhgnh7cy&count=4&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
